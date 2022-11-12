@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/clrRed" android:title="RED" android:onClick="forColors"/>
+    <item android:id="@+id/clrBlue" android:title="BLUE" android:onClick="forColors"/>
+    <item android:id="@+id/clrGreen" android:title="GREEN" android:onClick="forColors"/>
+    <item android:id="@+id/clrCyan" android:title="CYAN" android:onClick="forColors"/>
+    <item android:id="@+id/clrMagenta" android:title="MAGENTA" android:onClick="forColors"/>
+    <item android:id="@+id/clrYellow" android:title="YELLOW" android:onClick="forColors" />
+    <item android:id="@+id/clrPurple" android:title="PURPLE" android:onClick="forColors"/>
+</menu>
